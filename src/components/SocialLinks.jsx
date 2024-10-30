@@ -13,7 +13,7 @@ export const SocialLinks = () => {
           <FaLinkedin size={30} className="text-sky-800" />
         </>
       ),
-      href: "https://linkdin.com",
+      href: "#",
       style: "rounded-tr-md",
     },
     {

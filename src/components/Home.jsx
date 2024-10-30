@@ -16,7 +16,7 @@ export const Home = () => {
           <FaLinkedin size={30} className="text-sky-700 hover:scale-110 duration-300" />
         </>
       ),
-      href: "https://linkdin.com",
+      href: "#",
       
     },
     {

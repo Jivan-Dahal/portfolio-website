@@ -18,7 +18,7 @@ export const Contact = () => {
                 <input type="text" name="name" placeholder="Enter your name" required className="p-2 bg-transparent border-2 rounded-md text-white focus:outline-none" />
                 <input type="email" name="email" id="email" placeholder="Enter your email" required className=" my-4 p-2 bg-transparent border-2 rounded-md text-white focus:outline-none" />
                 <textarea name="message" id="message" placeholder="Enter your message here" rows={10} required className="p-2 bg-transparent border-2 rounded-md text-white focus:outline-none"></textarea>
-                <button className="text-white bg-gradient-to-b from-cyan-500 to-blue-600 px-4 p-2 rounded-md font-semibold my-8 mx-auto hover:scale-110 duration-300">Let's talk</button>
+                <button disabled className="text-white bg-gradient-to-b from-cyan-500 to-blue-600 px-4 p-2 rounded-md font-semibold my-8 mx-auto hover:scale-110 duration-300">Let's talk</button>
             </form>
         </div>
       </div>
