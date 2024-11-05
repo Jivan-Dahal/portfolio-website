@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.018c49d2.css",
+    "main.js": "/static/js/main.73e528f8.js",
+    "static/media/travel_agency.png": "/static/media/travel_agency.8b770280fae55843152e.png",
+    "static/media/portfolioweb.png": "/static/media/portfolioweb.0a302a6b18bca8d90a68.png",
+    "static/media/profile.png": "/static/media/profile.30dc3341eb7e670b92bc.png",
+    "static/media/bloodapp.jpg": "/static/media/bloodapp.f33506b47beb06bf1a28.jpg",
+    "static/media/Capture.JPG": "/static/media/Capture.a375d99dc3128e2240aa.JPG",
+    "static/media/cafe.png": "/static/media/cafe.e57b7a4fa2ca7422594d.png",
+    "static/media/image.png": "/static/media/image.649cdc7c630dadb13138.png",
+    "static/media/Laravel.png": "/static/media/Laravel.3407258f723972a682f6.png",
+    "index.html": "/index.html",
+    "main.018c49d2.css.map": "/static/css/main.018c49d2.css.map",
+    "main.73e528f8.js.map": "/static/js/main.73e528f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.018c49d2.css",
+    "static/js/main.73e528f8.js"
+  ]
+}
