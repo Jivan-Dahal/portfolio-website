@@ -61,7 +61,7 @@ const NavBar = () => {
           <li
             key={id}
             className={`px-4 cursor-pointer capitalize font-medium text-gray-500 hover:scale-105 duration-200 ${
-              activeLink === link ? "text-blue-500 font-bold" : ""
+              activeLink === link ? "text-red-500 font-extrabold" : ""
             }`}
           >
             <Link
@@ -90,7 +90,7 @@ const NavBar = () => {
             <li
               key={id}
               className={`px-4 py-4 text-2xl cursor-pointer capitalize text-gray-500 hover:scale-105 duration-200 ${
-                activeLink === link ? "text-blue-500 font-bold" : ""
+                activeLink === link ? "text-red-500  font-bold" : ""
               }`}
             >
               <Link
